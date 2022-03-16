@@ -2,3 +2,5 @@ Kevin Danilo Arias Buitrago
 20
 Espero aprender mucho para usar el conocimiento es mi vida laboral
 Ahora si puedo crear y hacer el push porque la carpeta ya no está vacia
+
+Es importante tener cuidado ya que pueden haber archivos similares en el local y en el main que puedan generar un conflicto, esto también ocasionará que pueda haber inconvenientes con los cambios realizados a ambos archivos
